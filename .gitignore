@@ -1,0 +1,15 @@
+
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Build directories
+build/
+
+# Generated images
+images/output/*
+!images/output/.gitkeep
+
+# Local VS Code configuration
+.vscode/
