@@ -1,0 +1,14 @@
+{
+  "name": "parallel-image-processing-openmp",
+  "version-string": "1.0.0",
+  "builtin-baseline": "d13c536672dced4b8c671955ea7d057a1b7a1ff8",
+  "dependencies": [
+    {
+      "name": "opencv4",
+      "default-features": false,
+      "features": [
+        "png"
+      ]
+    }
+  ]
+}

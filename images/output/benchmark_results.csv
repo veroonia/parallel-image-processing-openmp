@@ -1,0 +1,9 @@
+filter,threads,sequential_ms,parallel_ms,speedup,equivalent
+gaussian,1,2.468800,1.732600,1.424911,true
+gaussian,2,1.551800,1.131600,1.371333,true
+gaussian,4,1.657500,1.127200,1.470458,true
+gaussian,8,1.603100,1.263000,1.269279,true
+sobel,1,4.493200,2.774400,1.619521,true
+sobel,2,2.577800,1.839900,1.401054,true
+sobel,4,2.581900,1.105400,2.335716,true
+sobel,8,2.670800,1.441400,1.852921,true

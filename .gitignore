@@ -10,6 +10,13 @@ build/
 # Generated images
 images/output/*
 !images/output/.gitkeep
+!images/output/benchmark_results.csv
+!images/output/performance.png
+!images/output/gaussian_parallel.png
+!images/output/sobel_parallel.png
 
 # Local VS Code configuration
 .vscode/
+
+# Local Visual Studio configuration
+.vs/

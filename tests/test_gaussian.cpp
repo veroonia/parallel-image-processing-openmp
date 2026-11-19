@@ -10,7 +10,7 @@ int main()
 {
     // Load the original image
     Mat input = imread(
-        "images/input/img1.avif",
+        "images/input/img1.png",
         IMREAD_GRAYSCALE);
 
     if (input.empty())
